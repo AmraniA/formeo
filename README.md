@@ -1,2 +1,4 @@
-# formeo
-a project to manage trainings, students and teachers
+GesFormation
+============
+
+A Symfony project created on January 29, 2017, 3:46 pm.
